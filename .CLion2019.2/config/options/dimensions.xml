@@ -1,0 +1,24 @@
+<application>
+  <component name="DimensionService">
+    <location key="ide.config.custom.settings.0.0.1920.1080@144dpi" x="524" y="80" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080@144dpi" x="963" y="462" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080@144dpi" x="504" y="246" />
+    <location key="SettingsEditor.0.0.1920.1080@144dpi" x="0" y="0" />
+    <location key="org.intellij.images.editor.actions.BackgroundImageDialog.0.0.1920.1080@144dpi" x="492" y="279" />
+    <location key="FileChooserDialogImpl.0.0.1920.1080@144dpi" x="693" y="267" />
+    <location key="SettingsEditor.0.0.1920.1080@252dpi" x="0" y="0" />
+    <location key="SettingsEditor.0.0.1920.1080@180dpi" x="0" y="0" />
+    <location key="search.everywhere.popup.0.0.1920.1080@180dpi" x="329" y="-1" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080@180dpi" x="555" y="156" />
+    <location key="run.anything.popup.0.0.1920.1080@144dpi" x="446" y="227" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080@144dpi" width="1856" height="242" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080@144dpi" width="1856" height="242" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080@144dpi" width="1856" height="242" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@144dpi" width="1856" height="242" />
+    <size key="org.intellij.images.editor.actions.BackgroundImageDialog.0.0.1920.1080@144dpi" width="1059" height="710" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080@180dpi" width="1838" height="227" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080@180dpi" width="1838" height="227" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080@180dpi" width="1838" height="227" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@180dpi" width="1838" height="227" />
+  </component>
+</application>

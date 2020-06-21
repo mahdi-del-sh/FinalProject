@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Azarakhsh\CLionProjects\second_project\.idea\misc.xml" timestamp="1577028743173" />
+    <file path="C:\Users\Azarakhsh\CLionProjects\second_project\.idea\modules.xml" timestamp="1577028440413" />
+    <file path="C:\Users\Azarakhsh\CLionProjects\second_project\.idea\second_project.iml" timestamp="1577028743154" />
+    <file path="C:\Users\Azarakhsh\CLionProjects\second_project\.idea\workspace.xml" timestamp="1579082848770" />
+  </project-files>
+</conversion>
+

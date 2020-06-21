@@ -1,0 +1,275 @@
+2020-05-19 01:11:53,891 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2020-05-19 01:11:53,904 [     13]   INFO -        #com.intellij.idea.Main - IDE: Android Studio (build #AI-192.7142.36.36.6392135, 14 Apr 2020 04:22) 
+2020-05-19 01:11:53,904 [     13]   INFO -        #com.intellij.idea.Main - OS: Windows 10 (10.0, amd64) 
+2020-05-19 01:11:53,904 [     13]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_212-release-1586-b04 (JetBrains s.r.o) 
+2020-05-19 01:11:53,904 [     13]   INFO -        #com.intellij.idea.Main - JVM: 25.212-b04 (OpenJDK 64-Bit Server VM) 
+2020-05-19 01:11:53,905 [     14]   INFO -        #com.intellij.idea.Main - JVM Args: exit -Xms256m -Xmx1280m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -XX:CICompilerCount=2 -Dsun.io.useCanonPrefixCache=false -Djava.net.preferIPv4Stack=true -Djdk.http.auth.tunneling.disabledSchemes="" -Djdk.attach.allowAttachSelf -Dkotlinx.coroutines.debug=off -Djdk.module.illegalAccess.silent=true -Djna.nosys=true -Djna.boot.library.path= -da -Djb.vmOptionsFile=C:\Program Files\Android\Android Studio\bin\studio64.exe.vmoptions -Djava.library.path=C:\Program Files\Android\Android Studio\jre\jre\bin;C:\Program Files\Android\Android Studio\jre\jre\bin\server -Didea.platform.prefix=AndroidStudio -Didea.jre.check=true -Dide.native.launcher=true -Didea.paths.selector=AndroidStudio3.6 -XX:ErrorFile=C:\Users\Azarakhsh\java_error_in_studio_%p.log -XX:HeapDumpPath=C:\Users\Azarakhsh\java_error_in_studio.hprof 
+2020-05-19 01:11:53,905 [     14]   INFO -        #com.intellij.idea.Main - ext: C:\Program Files\Android\Android Studio\jre\jre\lib\ext: [access-bridge-64.jar, cldrdata.jar, dnsns.jar, jaccess.jar, localedata.jar, meta-index, nashorn.jar, sunec.jar, sunjce_provider.jar, sunmscapi.jar, sunpkcs11.jar, zipfs.jar] 
+2020-05-19 01:11:53,905 [     14]   INFO -        #com.intellij.idea.Main - charsets: JNU=Cp1252 file=Cp1252 
+2020-05-19 01:11:53,923 [     32]   INFO - plication.impl.ApplicationImpl - CPU cores: 8; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@688af6b9[Running, parallelism = 7, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@69cf5111 
+2020-05-19 01:11:53,933 [     42]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 34 ms 
+2020-05-19 01:11:53,936 [     45]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational 
+2020-05-19 01:12:09,068 [  15177]   INFO - tellij.diagnostic.LoadingPhase - Reached SPLASH loading phase 
+2020-05-19 01:12:09,217 [  15326]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor duplicates-groovy.xml 
+2020-05-19 01:12:09,219 [  15328]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor duplicates-detection-groovy.xml 
+2020-05-19 01:12:09,316 [  15425]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor profiler-java.xml 
+2020-05-19 01:12:09,427 [  15536]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: Android APK Support (1.0), Android Games (1.0), Android NDK Support (1.0), Android Support (10.3.6.3), App Links Assistant (0.1), ChangeReminder (192.7142.36.36.6392135), Configuration Script (192.7142.36.36.6392135), Copyright (192.7142.36.36.6392135), Coverage (192.7142.36.36.6392135), EditorConfig (192.7142.36.36.6392135), Firebase App Indexing (0.1), Firebase Services (0.1), Firebase Testing (1.0), Git (192.7142.36.36.6392135), GitHub (192.7142.36.36.6392135), Google Cloud Tools Core (0.2.8), Google Cloud Tools For Android Studio (0.2.8), Google Developers Samples (0.3.1), Google Login (1.0), Google Services (0.1), Gradle (192.7142.36.36.6392135), Groovy (192.7142.36.36.6392135), IDEA CORE (192.7142.36.36.6392135), IntelliLang (192.7142.36.36.6392135), JUnit (192.7142.36.36.6392135), Java (192.7142.36.36.6392135), Java Bytecode Decompiler (192.7142.36.36.6392135), Java IDE Customization (192.7142.36.36.6392135), Java Internationalization (192.7142.36.36.6392135), Java Stream Debugger (192.7142.36.36.6392135), Kotlin (1.3.71-release-Studio3.6-1), Layoutlib Standard (1.0), Mercurial (192.7142.36.36.6392135), Properties (192.7142.36.36.6392135), Settings Repository (192.7142.36.36.6392135), Shell Script (192.7142.36.36.6392135), Smali Support (192.7142.36.36.6392135), Subversion (192.7142.36.36.6392135), Task Management (192.7142.36.36.6392135), Terminal (192.7142.36.36.6392135), Test Recorder (1.0), TestNG (192.7142.36.36.6392135), TextMate bundles (192.7142.36.36.6392135), YAML (192.7142.36.36.6392135) 
+2020-05-19 01:12:09,867 [  15976]   INFO - tellij.diagnostic.LoadingPhase - Reached CONFIGURATION_STORE_INITIALIZED loading phase 
+2020-05-19 01:12:09,911 [  16020]   INFO - ellij.vfs.persistent.FSRecords - Marking VFS as corrupted: 'C:\Users\Azarakhsh\.AndroidStudio3.6\system\caches\names.dat' does not exist 
+2020-05-19 01:12:09,979 [  16088]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=1217 
+2020-05-19 01:12:10,034 [  16143]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: C:\Program Files\Android\Android Studio\bin\fsnotifier64.exe 
+2020-05-19 01:12:10,052 [  16161]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2020-05-19 01:12:10,414 [  16523]   INFO - .history.utils.LocalHistoryLog - local history version mismatch (was: 0, expected: 6), rebuilding... 
+2020-05-19 01:12:10,414 [  16523]   INFO - .history.utils.LocalHistoryLog - FS has been rebuild, rebuilding local history... 
+2020-05-19 01:12:10,684 [  16793]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2020-05-19 01:12:10,709 [  16818]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2020-05-19 01:12:10,916 [  17025]   INFO - il.indexing.FileBasedIndexImpl - File index extensions iterated:129 
+2020-05-19 01:12:11,163 [  17272]   INFO - ij.psi.stubs.StubUpdatingIndex - Following new file types will be indexed:Kotlin,KNM,Properties,LLDBCommands,CLASS,HTML,GDBCommands,DGM File Type,kotlin_builtins,JAVA,KJSM,Groovy,XML 
+2020-05-19 01:12:11,563 [  17672]   INFO - pl$FileIndexDataInitialization - Initialization done:775 
+2020-05-19 01:12:11,873 [  17982]   INFO - exImpl$StubIndexInitialization - Initialization done:310 
+2020-05-19 01:12:26,095 [  32204]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=13, fontScale=1.0; restored: fontSize=13, fontScale=1.0 
+2020-05-19 01:12:26,606 [  32715]   INFO - j.ide.ui.OptionsTopHitProvider - 8 ms spent to cache options in application 
+2020-05-19 01:12:26,658 [  32767]   INFO - tellij.diagnostic.LoadingPhase - Reached FRAME_SHOWN loading phase 
+2020-05-19 01:12:27,792 [  33901]   INFO - dk.ClangTidyInspectionProvider - Clang-tidy inspection is enabled.} 
+2020-05-19 01:12:34,394 [  40503]   INFO - .startup.AndroidSdkInitializer - Found Studio home directory at: 'C:\Program Files\Android\Android Studio' 
+2020-05-19 01:12:34,394 [  40503]   INFO - .startup.AndroidSdkInitializer - Looking for Android SDK at 'C:/Program Files/Android/Android Studio/sdk' 
+2020-05-19 01:12:34,395 [  40504]   INFO - .startup.AndroidSdkInitializer - Looking for Android SDK at 'C:/Program Files/Android/sdk' 
+2020-05-19 01:12:34,395 [  40504]   INFO - .startup.AndroidSdkInitializer - Unable to locate SDK within the Android studio installation. 
+2020-05-19 01:12:34,396 [  40505]   INFO - .startup.AndroidSdkInitializer - Examined and not found a valid Android SDK path: ANDROID_HOME environment variable 
+2020-05-19 01:12:34,396 [  40505]   INFO - .startup.AndroidSdkInitializer - Examined and not found a valid Android SDK path: ANDROID_SDK_ROOT environment variable 
+2020-05-19 01:12:34,396 [  40505]   INFO - .startup.AndroidSdkInitializer - Examined and not found a valid Android SDK path: Last SDK used by Android tools 
+2020-05-19 01:12:34,413 [  40522]   INFO - s.RepoProgressIndicatorAdapter - File C:\Users\Azarakhsh\.android\repositories.cfg could not be loaded. 
+2020-05-19 01:12:34,415 [  40524]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/addons_list-3.xml 
+2020-05-19 01:13:37,557 [ 103666]   INFO - s.RepoProgressIndicatorAdapter - IOException: https://dl.google.com/android/repository/addons_list-3.xml 
+2020-05-19 01:13:37,557 [ 103666]   INFO - s.RepoProgressIndicatorAdapter - java.net.SocketTimeoutException: Read timed out 
+2020-05-19 01:13:37,559 [ 103668]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/addons_list-2.xml 
+2020-05-19 01:13:38,790 [ 104899]   INFO - s.RepoProgressIndicatorAdapter - IOException: https://dl.google.com/android/repository/addons_list-2.xml 
+2020-05-19 01:13:38,791 [ 104900]   INFO - s.RepoProgressIndicatorAdapter - com.intellij.util.io.HttpRequests$HttpStatusException: Request failed with status code 404. Status=404, Url=https://dl.google.com/android/repository/addons_list-2.xml 
+2020-05-19 01:13:38,795 [ 104904]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/addons_list-1.xml 
+2020-05-19 01:13:39,453 [ 105562]   INFO - s.RepoProgressIndicatorAdapter - IOException: https://dl.google.com/android/repository/addons_list-1.xml 
+2020-05-19 01:13:39,455 [ 105564]   INFO - s.RepoProgressIndicatorAdapter - com.intellij.util.io.HttpRequests$HttpStatusException: Request failed with status code 404. Status=404, Url=https://dl.google.com/android/repository/addons_list-1.xml 
+2020-05-19 01:13:39,455 [ 105564]   WARN - s.RepoProgressIndicatorAdapter - Failed to download any source lists! 
+2020-05-19 01:13:39,460 [ 105569]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/repository2-1.xml 
+2020-05-19 01:13:39,461 [ 105570]   INFO - s.RepoProgressIndicatorAdapter - Downloading file:/C:/Program%20Files/Android/Android%20Studio/plugins/sdk-updates/offline-repo/offline-repo.xml 
+2020-05-19 01:13:51,416 [ 117525]   WARN - s.RepoProgressIndicatorAdapter - IO exception while downloading manifest 
+com.intellij.util.io.HttpRequests$HttpStatusException: Request failed with status code 404. Status=404, Url=https://dl.google.com/android/repository/repository2-1.xml
+	at com.intellij.util.io.HttpRequests.throwHttpStatusError(HttpRequests.java:664)
+	at com.intellij.util.io.HttpRequests.openConnection(HttpRequests.java:645)
+	at com.intellij.util.io.HttpRequests.access$300(HttpRequests.java:61)
+	at com.intellij.util.io.HttpRequests$RequestImpl.getConnection(HttpRequests.java:389)
+	at com.android.tools.idea.sdk.StudioDownloader.lambda$doDownloadFully$2(StudioDownloader.java:197)
+	at com.intellij.util.io.HttpRequests.doProcess(HttpRequests.java:537)
+	at com.intellij.util.io.HttpRequests.process(HttpRequests.java:513)
+	at com.intellij.util.io.HttpRequests.access$100(HttpRequests.java:61)
+	at com.intellij.util.io.HttpRequests$RequestBuilderImpl.connect(HttpRequests.java:363)
+	at com.android.tools.idea.sdk.StudioDownloader.doDownloadFully(StudioDownloader.java:193)
+	at com.android.tools.idea.sdk.StudioDownloader.downloadFully(StudioDownloader.java:133)
+	at com.android.tools.idea.sdk.StudioDownloader.downloadFully(StudioDownloader.java:250)
+	at com.android.tools.idea.sdk.StudioDownloader.downloadAndStream(StudioDownloader.java:123)
+	at com.android.repository.impl.manager.RemoteRepoLoaderImpl.lambda$fetchPackages$0(RemoteRepoLoaderImpl.java:139)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-05-19 01:14:39,695 [ 165804]   WARN - s.RepoProgressIndicatorAdapter - Still waiting for package manifests to be fetched remotely. 
+2020-05-19 01:14:39,801 [ 165910]   WARN - vdmanager.AvdManagerConnection - No Android SDK Found 
+2020-05-19 01:14:40,066 [ 166175]   INFO - .startup.AndroidSdkInitializer - Found Studio home directory at: 'C:\Program Files\Android\Android Studio' 
+2020-05-19 01:14:40,066 [ 166175]   INFO - .startup.AndroidSdkInitializer - Looking for Android SDK at 'C:/Program Files/Android/Android Studio/sdk' 
+2020-05-19 01:14:40,067 [ 166176]   INFO - .startup.AndroidSdkInitializer - Looking for Android SDK at 'C:/Program Files/Android/sdk' 
+2020-05-19 01:14:40,067 [ 166176]   INFO - .startup.AndroidSdkInitializer - Unable to locate SDK within the Android studio installation. 
+2020-05-19 01:14:40,067 [ 166176]   INFO - .startup.AndroidSdkInitializer - Examined and not found a valid Android SDK path: ANDROID_HOME environment variable 
+2020-05-19 01:14:40,067 [ 166176]   INFO - .startup.AndroidSdkInitializer - Examined and not found a valid Android SDK path: ANDROID_SDK_ROOT environment variable 
+2020-05-19 01:14:40,067 [ 166176]   INFO - .startup.AndroidSdkInitializer - Examined and not found a valid Android SDK path: Last SDK used by Android tools 
+2020-05-19 01:16:39,609 [ 285718]   WARN - ugins.textmate.TextMateService - Missing builtin bundles, checked: 
+C:/Users/Azarakhsh/.AndroidStudio3.6/config/plugins/textmate/lib/bundles
+C:/Program Files/Android/Android Studio/plugins/textmate/lib/bundles 
+2020-05-19 01:17:12,652 [ 318761]   WARN - til.ui.update.LazyUiDisposable - use application as a parent disposable 
+2020-05-19 01:18:18,717 [ 384826]  ERROR - ted.ConsolidatedProgressStep$1 - SDK emulator directory is missing 
+com.android.tools.idea.welcome.install.WizardException: SDK emulator directory is missing
+	at com.android.tools.idea.welcome.install.CheckSdkOperation.perform(CheckSdkOperation.java:115)
+	at com.android.tools.idea.welcome.install.CheckSdkOperation.perform(CheckSdkOperation.java:39)
+	at com.android.tools.idea.welcome.install.InstallOperation.execute(InstallOperation.java:69)
+	at com.android.tools.idea.welcome.install.InstallOperation$OperationChain.perform(InstallOperation.java:156)
+	at com.android.tools.idea.welcome.install.InstallOperation.execute(InstallOperation.java:69)
+	at com.android.tools.idea.welcome.wizard.deprecated.InstallComponentsPath.runLongOperation(InstallComponentsPath.java:268)
+	at com.android.tools.idea.welcome.wizard.deprecated.ConsolidatedProgressStep.doLongRunningOperation(ConsolidatedProgressStep.java:78)
+	at com.android.tools.idea.welcome.wizard.deprecated.ConsolidatedProgressStep.access$000(ConsolidatedProgressStep.java:32)
+	at com.android.tools.idea.welcome.wizard.deprecated.ConsolidatedProgressStep$1.run(ConsolidatedProgressStep.java:58)
+	at com.android.tools.idea.welcome.wizard.deprecated.FirstRunWizardHost$LongRunningOperationWrapper.run(FirstRunWizardHost.java:440)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$TaskRunnable.run(CoreProgressManager.java:894)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$2(CoreProgressManager.java:169)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:591)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:537)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:59)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:156)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$4.run(CoreProgressManager.java:408)
+	at com.intellij.openapi.application.impl.ApplicationImpl$1.run(ApplicationImpl.java:294)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-05-19 01:18:18,718 [ 384827]  ERROR - ted.ConsolidatedProgressStep$1 - Android Studio 3.6.3  Build #AI-192.7142.36.36.6392135 
+2020-05-19 01:18:18,719 [ 384828]  ERROR - ted.ConsolidatedProgressStep$1 - JDK: 1.8.0_212-release; VM: OpenJDK 64-Bit Server VM; Vendor: JetBrains s.r.o 
+2020-05-19 01:18:18,719 [ 384828]  ERROR - ted.ConsolidatedProgressStep$1 - OS: Windows 10 
+2020-05-19 01:18:18,725 [ 384834]  ERROR - ted.ConsolidatedProgressStep$1 - Last Action:  
+2020-05-19 01:18:29,952 [ 396061]   INFO - rd.FirstRunWizardFrameProvider - Overriding welcome frame to be resizable 
+2020-05-19 01:18:36,461 [ 402570]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/addons_list-3.xml 
+2020-05-19 01:18:36,477 [ 402586]   INFO - er.configure.SourcesTableModel - Downloading https://dl.google.com/android/repository/addons_list-3.xml 
+2020-05-19 01:18:36,977 [ 403086]   INFO - s.RepoProgressIndicatorAdapter - IOException: https://dl.google.com/android/repository/addons_list-3.xml 
+2020-05-19 01:18:36,977 [ 403086]   INFO - s.RepoProgressIndicatorAdapter - com.intellij.util.io.HttpRequests$HttpStatusException: Request failed with status code 404. Status=404, Url=https://dl.google.com/android/repository/addons_list-3.xml 
+2020-05-19 01:18:36,980 [ 403089]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/addons_list-2.xml 
+2020-05-19 01:18:37,273 [ 403382]   INFO - er.configure.SourcesTableModel - IOException: https://dl.google.com/android/repository/addons_list-3.xml 
+2020-05-19 01:18:37,273 [ 403382]   INFO - er.configure.SourcesTableModel - com.intellij.util.io.HttpRequests$HttpStatusException: Request failed with status code 404. Status=404, Url=https://dl.google.com/android/repository/addons_list-3.xml 
+2020-05-19 01:18:37,275 [ 403384]   INFO - er.configure.SourcesTableModel - Downloading https://dl.google.com/android/repository/addons_list-2.xml 
+2020-05-19 01:18:37,359 [ 403468]   INFO - s.RepoProgressIndicatorAdapter - IOException: https://dl.google.com/android/repository/addons_list-2.xml 
+2020-05-19 01:18:37,360 [ 403469]   INFO - s.RepoProgressIndicatorAdapter - com.intellij.util.io.HttpRequests$HttpStatusException: Request failed with status code 404. Status=404, Url=https://dl.google.com/android/repository/addons_list-2.xml 
+2020-05-19 01:18:37,363 [ 403472]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/addons_list-1.xml 
+2020-05-19 01:18:37,658 [ 403767]   INFO - er.configure.SourcesTableModel - IOException: https://dl.google.com/android/repository/addons_list-2.xml 
+2020-05-19 01:18:37,658 [ 403767]   INFO - er.configure.SourcesTableModel - com.intellij.util.io.HttpRequests$HttpStatusException: Request failed with status code 404. Status=404, Url=https://dl.google.com/android/repository/addons_list-2.xml 
+2020-05-19 01:18:37,726 [ 403835]   INFO - er.configure.SourcesTableModel - Downloading https://dl.google.com/android/repository/addons_list-1.xml 
+2020-05-19 01:18:37,767 [ 403876]   INFO - s.RepoProgressIndicatorAdapter - IOException: https://dl.google.com/android/repository/addons_list-1.xml 
+2020-05-19 01:18:37,767 [ 403876]   INFO - s.RepoProgressIndicatorAdapter - com.intellij.util.io.HttpRequests$HttpStatusException: Request failed with status code 404. Status=404, Url=https://dl.google.com/android/repository/addons_list-1.xml 
+2020-05-19 01:18:37,768 [ 403877]   WARN - s.RepoProgressIndicatorAdapter - Failed to download any source lists! 
+2020-05-19 01:18:37,768 [ 403877]   INFO - s.RepoProgressIndicatorAdapter - File C:\Users\Azarakhsh\.android\repositories.cfg could not be loaded. 
+2020-05-19 01:18:37,770 [ 403879]   INFO - s.RepoProgressIndicatorAdapter - Downloading file:/C:/Program%20Files/Android/Android%20Studio/plugins/sdk-updates/offline-repo/offline-repo.xml 
+2020-05-19 01:18:37,770 [ 403879]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/repository2-1.xml 
+2020-05-19 01:18:39,176 [ 405285]   WARN - s.RepoProgressIndicatorAdapter - IO exception while downloading manifest 
+com.intellij.util.io.HttpRequests$HttpStatusException: Request failed with status code 404. Status=404, Url=https://dl.google.com/android/repository/repository2-1.xml
+	at com.intellij.util.io.HttpRequests.throwHttpStatusError(HttpRequests.java:664)
+	at com.intellij.util.io.HttpRequests.openConnection(HttpRequests.java:645)
+	at com.intellij.util.io.HttpRequests.access$300(HttpRequests.java:61)
+	at com.intellij.util.io.HttpRequests$RequestImpl.getConnection(HttpRequests.java:389)
+	at com.android.tools.idea.sdk.StudioDownloader.lambda$doDownloadFully$2(StudioDownloader.java:197)
+	at com.intellij.util.io.HttpRequests.doProcess(HttpRequests.java:537)
+	at com.intellij.util.io.HttpRequests.process(HttpRequests.java:513)
+	at com.intellij.util.io.HttpRequests.access$100(HttpRequests.java:61)
+	at com.intellij.util.io.HttpRequests$RequestBuilderImpl.connect(HttpRequests.java:363)
+	at com.android.tools.idea.sdk.StudioDownloader.doDownloadFully(StudioDownloader.java:193)
+	at com.android.tools.idea.sdk.StudioDownloader.downloadFully(StudioDownloader.java:133)
+	at com.android.tools.idea.sdk.StudioDownloader.downloadFully(StudioDownloader.java:250)
+	at com.android.tools.idea.sdk.StudioDownloader.downloadAndStream(StudioDownloader.java:123)
+	at com.android.repository.impl.manager.RemoteRepoLoaderImpl.lambda$fetchPackages$0(RemoteRepoLoaderImpl.java:139)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-05-19 01:18:43,081 [ 409190]   INFO - er.configure.SourcesTableModel - IOException: https://dl.google.com/android/repository/addons_list-1.xml 
+2020-05-19 01:18:43,082 [ 409191]   INFO - er.configure.SourcesTableModel - com.intellij.util.io.HttpRequests$HttpStatusException: Request failed with status code 404. Status=404, Url=https://dl.google.com/android/repository/addons_list-1.xml 
+2020-05-19 01:18:43,082 [ 409191]   WARN - er.configure.SourcesTableModel - Failed to download any source lists! 
+2020-05-19 01:19:37,791 [ 463900]   WARN - s.RepoProgressIndicatorAdapter - Still waiting for package manifests to be fetched remotely. 
+2020-05-19 01:20:52,499 [ 538608]   INFO - ateSettings.impl.UpdateChecker - failed to load plugin descriptions from default repository: Cannot download 'https://plugins.jetbrains.com/plugins/list/?uuid=fc9fd418-8bc2-4a85-913f-9bec84868de6&build=AI-192.7142.36.36.6392135': Read timed out
+, response: 200 OK 
+2020-05-19 01:21:05,740 [ 551849]   INFO - s.RepoProgressIndicatorAdapter - File C:\Users\Azarakhsh\.android\repositories.cfg could not be loaded. 
+2020-05-19 01:21:05,741 [ 551850]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/addons_list-3.xml 
+2020-05-19 01:21:09,219 [ 555328]   INFO - s.RepoProgressIndicatorAdapter - IOException: https://dl.google.com/android/repository/addons_list-3.xml 
+2020-05-19 01:21:09,220 [ 555329]   INFO - s.RepoProgressIndicatorAdapter - com.intellij.util.io.HttpRequests$HttpStatusException: Request failed with status code 404. Status=404, Url=https://dl.google.com/android/repository/addons_list-3.xml 
+2020-05-19 01:21:09,221 [ 555330]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/addons_list-2.xml 
+2020-05-19 01:21:10,621 [ 556730]   INFO - s.RepoProgressIndicatorAdapter - IOException: https://dl.google.com/android/repository/addons_list-2.xml 
+2020-05-19 01:21:10,623 [ 556732]   INFO - s.RepoProgressIndicatorAdapter - com.intellij.util.io.HttpRequests$HttpStatusException: Request failed with status code 404. Status=404, Url=https://dl.google.com/android/repository/addons_list-2.xml 
+2020-05-19 01:21:10,628 [ 556737]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/addons_list-1.xml 
+2020-05-19 01:21:11,284 [ 557393]   INFO - s.RepoProgressIndicatorAdapter - IOException: https://dl.google.com/android/repository/addons_list-1.xml 
+2020-05-19 01:21:11,286 [ 557395]   INFO - s.RepoProgressIndicatorAdapter - com.intellij.util.io.HttpRequests$HttpStatusException: Request failed with status code 404. Status=404, Url=https://dl.google.com/android/repository/addons_list-1.xml 
+2020-05-19 01:21:11,286 [ 557395]   WARN - s.RepoProgressIndicatorAdapter - Failed to download any source lists! 
+2020-05-19 01:21:11,357 [ 557466]   INFO - s.RepoProgressIndicatorAdapter - Downloading file:/C:/Program%20Files/Android/Android%20Studio/plugins/sdk-updates/offline-repo/offline-repo.xml 
+2020-05-19 01:21:11,359 [ 557468]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/repository2-1.xml 
+2020-05-19 01:21:11,731 [ 557840]   WARN - s.RepoProgressIndicatorAdapter - IO exception while downloading manifest 
+com.intellij.util.io.HttpRequests$HttpStatusException: Request failed with status code 404. Status=404, Url=https://dl.google.com/android/repository/repository2-1.xml
+	at com.intellij.util.io.HttpRequests.throwHttpStatusError(HttpRequests.java:664)
+	at com.intellij.util.io.HttpRequests.openConnection(HttpRequests.java:645)
+	at com.intellij.util.io.HttpRequests.access$300(HttpRequests.java:61)
+	at com.intellij.util.io.HttpRequests$RequestImpl.getConnection(HttpRequests.java:389)
+	at com.android.tools.idea.sdk.StudioDownloader.lambda$doDownloadFully$2(StudioDownloader.java:197)
+	at com.intellij.util.io.HttpRequests.doProcess(HttpRequests.java:537)
+	at com.intellij.util.io.HttpRequests.process(HttpRequests.java:513)
+	at com.intellij.util.io.HttpRequests.access$100(HttpRequests.java:61)
+	at com.intellij.util.io.HttpRequests$RequestBuilderImpl.connect(HttpRequests.java:363)
+	at com.android.tools.idea.sdk.StudioDownloader.doDownloadFully(StudioDownloader.java:193)
+	at com.android.tools.idea.sdk.StudioDownloader.downloadFully(StudioDownloader.java:133)
+	at com.android.tools.idea.sdk.StudioDownloader.downloadFully(StudioDownloader.java:250)
+	at com.android.tools.idea.sdk.StudioDownloader.downloadAndStream(StudioDownloader.java:123)
+	at com.android.repository.impl.manager.RemoteRepoLoaderImpl.lambda$fetchPackages$0(RemoteRepoLoaderImpl.java:139)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-05-19 01:21:17,560 [ 563669]   INFO - s.RepoProgressIndicatorAdapter - File C:\Users\Azarakhsh\.android\repositories.cfg could not be loaded. 
+2020-05-19 01:21:17,562 [ 563671]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/addons_list-3.xml 
+2020-05-19 01:21:18,957 [ 565066]   INFO - s.RepoProgressIndicatorAdapter - IOException: https://dl.google.com/android/repository/addons_list-3.xml 
+2020-05-19 01:21:18,957 [ 565066]   INFO - s.RepoProgressIndicatorAdapter - com.intellij.util.io.HttpRequests$HttpStatusException: Request failed with status code 404. Status=404, Url=https://dl.google.com/android/repository/addons_list-3.xml 
+2020-05-19 01:21:18,962 [ 565071]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/addons_list-2.xml 
+2020-05-19 01:21:19,382 [ 565491]   INFO - s.RepoProgressIndicatorAdapter - IOException: https://dl.google.com/android/repository/addons_list-2.xml 
+2020-05-19 01:21:19,382 [ 565491]   INFO - s.RepoProgressIndicatorAdapter - com.intellij.util.io.HttpRequests$HttpStatusException: Request failed with status code 404. Status=404, Url=https://dl.google.com/android/repository/addons_list-2.xml 
+2020-05-19 01:21:19,385 [ 565494]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/addons_list-1.xml 
+2020-05-19 01:21:19,743 [ 565852]   INFO - s.RepoProgressIndicatorAdapter - IOException: https://dl.google.com/android/repository/addons_list-1.xml 
+2020-05-19 01:21:19,744 [ 565853]   INFO - s.RepoProgressIndicatorAdapter - com.intellij.util.io.HttpRequests$HttpStatusException: Request failed with status code 404. Status=404, Url=https://dl.google.com/android/repository/addons_list-1.xml 
+2020-05-19 01:21:19,744 [ 565853]   WARN - s.RepoProgressIndicatorAdapter - Failed to download any source lists! 
+2020-05-19 01:21:19,752 [ 565861]   INFO - s.RepoProgressIndicatorAdapter - Downloading file:/C:/Program%20Files/Android/Android%20Studio/plugins/sdk-updates/offline-repo/offline-repo.xml 
+2020-05-19 01:21:19,753 [ 565862]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/repository2-1.xml 
+2020-05-19 01:21:20,448 [ 566557]   WARN - s.RepoProgressIndicatorAdapter - IO exception while downloading manifest 
+com.intellij.util.io.HttpRequests$HttpStatusException: Request failed with status code 404. Status=404, Url=https://dl.google.com/android/repository/repository2-1.xml
+	at com.intellij.util.io.HttpRequests.throwHttpStatusError(HttpRequests.java:664)
+	at com.intellij.util.io.HttpRequests.openConnection(HttpRequests.java:645)
+	at com.intellij.util.io.HttpRequests.access$300(HttpRequests.java:61)
+	at com.intellij.util.io.HttpRequests$RequestImpl.getConnection(HttpRequests.java:389)
+	at com.android.tools.idea.sdk.StudioDownloader.lambda$doDownloadFully$2(StudioDownloader.java:197)
+	at com.intellij.util.io.HttpRequests.doProcess(HttpRequests.java:537)
+	at com.intellij.util.io.HttpRequests.process(HttpRequests.java:513)
+	at com.intellij.util.io.HttpRequests.access$100(HttpRequests.java:61)
+	at com.intellij.util.io.HttpRequests$RequestBuilderImpl.connect(HttpRequests.java:363)
+	at com.android.tools.idea.sdk.StudioDownloader.doDownloadFully(StudioDownloader.java:193)
+	at com.android.tools.idea.sdk.StudioDownloader.downloadFully(StudioDownloader.java:133)
+	at com.android.tools.idea.sdk.StudioDownloader.downloadFully(StudioDownloader.java:250)
+	at com.android.tools.idea.sdk.StudioDownloader.downloadAndStream(StudioDownloader.java:123)
+	at com.android.repository.impl.manager.RemoteRepoLoaderImpl.lambda$fetchPackages$0(RemoteRepoLoaderImpl.java:139)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-05-19 01:22:11,377 [ 617486]   WARN - s.RepoProgressIndicatorAdapter - Still waiting for package manifests to be fetched remotely. 
+2020-05-19 01:22:15,634 [ 621743]  ERROR - ted.ConsolidatedProgressStep$1 - SDK emulator directory is missing 
+com.android.tools.idea.welcome.install.WizardException: SDK emulator directory is missing
+	at com.android.tools.idea.welcome.install.CheckSdkOperation.perform(CheckSdkOperation.java:115)
+	at com.android.tools.idea.welcome.install.CheckSdkOperation.perform(CheckSdkOperation.java:39)
+	at com.android.tools.idea.welcome.install.InstallOperation.execute(InstallOperation.java:69)
+	at com.android.tools.idea.welcome.install.InstallOperation$OperationChain.perform(InstallOperation.java:156)
+	at com.android.tools.idea.welcome.install.InstallOperation.execute(InstallOperation.java:69)
+	at com.android.tools.idea.welcome.wizard.deprecated.InstallComponentsPath.runLongOperation(InstallComponentsPath.java:268)
+	at com.android.tools.idea.welcome.wizard.deprecated.ConsolidatedProgressStep.doLongRunningOperation(ConsolidatedProgressStep.java:78)
+	at com.android.tools.idea.welcome.wizard.deprecated.ConsolidatedProgressStep.access$000(ConsolidatedProgressStep.java:32)
+	at com.android.tools.idea.welcome.wizard.deprecated.ConsolidatedProgressStep$1.run(ConsolidatedProgressStep.java:58)
+	at com.android.tools.idea.wizard.dynamic.DialogWrapperHost$1.run(DialogWrapperHost.java:162)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$TaskRunnable.run(CoreProgressManager.java:894)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$2(CoreProgressManager.java:169)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:591)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:537)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:59)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:156)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$4.run(CoreProgressManager.java:408)
+	at com.intellij.openapi.application.impl.ApplicationImpl$1.run(ApplicationImpl.java:294)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-05-19 01:22:15,635 [ 621744]  ERROR - ted.ConsolidatedProgressStep$1 - Android Studio 3.6.3  Build #AI-192.7142.36.36.6392135 
+2020-05-19 01:22:15,635 [ 621744]  ERROR - ted.ConsolidatedProgressStep$1 - JDK: 1.8.0_212-release; VM: OpenJDK 64-Bit Server VM; Vendor: JetBrains s.r.o 
+2020-05-19 01:22:15,636 [ 621745]  ERROR - ted.ConsolidatedProgressStep$1 - OS: Windows 10 
+2020-05-19 01:22:15,636 [ 621745]  ERROR - ted.ConsolidatedProgressStep$1 - Last Action: EditorPaste 
+2020-05-19 01:22:19,766 [ 625875]   WARN - s.RepoProgressIndicatorAdapter - Still waiting for package manifests to be fetched remotely. 
+2020-05-19 01:22:33,566 [ 639675]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2020-05-19 01:22:33,566 [ 639675]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2020-05-19 01:22:33,566 [ 639675]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2020-05-19 01:22:33,573 [ 639682]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2020-05-19 01:22:33,575 [ 639684]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2020-05-19 01:22:33,576 [ 639685]   INFO - Types.impl.FileTypeManagerImpl - FileTypeManager: 0 auto-detected files
+Elapsed time on auto-detect: 0 ms 
+2020-05-19 01:22:33,582 [ 639691]   INFO - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 0 
+2020-05-19 01:22:33,583 [ 639692]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2020-05-19 01:22:33,584 [ 639693]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2020-05-19 01:22:33,586 [ 639695]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2020-05-19 01:22:33,588 [ 639697]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 

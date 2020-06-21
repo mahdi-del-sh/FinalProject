@@ -1,0 +1,65 @@
+<application>
+  <component name="DimensionService">
+    <size key="GridCell.Tab.0.left.0.0.1920.1080@144dpi" width="1856" height="245" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080@144dpi" width="1856" height="245" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080@144dpi" width="1856" height="245" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@144dpi" width="1856" height="245" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080@144dpi" width="1856" height="306" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080@144dpi" width="1856" height="306" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080@144dpi" width="1856" height="306" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080@144dpi" width="1856" height="306" />
+    <size key="GridCell.Tab.0.left.1920.0.1080.1920" width="1037" height="163" />
+    <size key="GridCell.Tab.0.center.1920.0.1080.1920" width="1037" height="163" />
+    <size key="GridCell.Tab.0.right.1920.0.1080.1920" width="1037" height="163" />
+    <size key="GridCell.Tab.0.bottom.1920.0.1080.1920" width="1037" height="163" />
+    <size key="GridCell.Tab.0.left.1920.0.1920.1080" width="1877" height="378" />
+    <size key="GridCell.Tab.0.center.1920.0.1920.1080" width="1877" height="378" />
+    <size key="GridCell.Tab.0.right.1920.0.1920.1080" width="1877" height="378" />
+    <size key="GridCell.Tab.0.bottom.1920.0.1920.1080" width="1877" height="378" />
+    <size key="GridCell.Tab.0.left.2400.0.1920.1080@150dpi" width="1854" height="329" />
+    <size key="GridCell.Tab.0.center.2400.0.1920.1080@150dpi" width="1854" height="329" />
+    <size key="GridCell.Tab.0.right.2400.0.1920.1080@150dpi" width="1854" height="329" />
+    <size key="GridCell.Tab.0.bottom.2400.0.1920.1080@150dpi" width="1854" height="329" />
+    <size key="GridCell.Tab.0.left.2880.0.1920.1080@144dpi" width="1856" height="527" />
+    <size key="GridCell.Tab.0.center.2880.0.1920.1080@144dpi" width="1856" height="527" />
+    <size key="GridCell.Tab.0.right.2880.0.1920.1080@144dpi" width="1856" height="527" />
+    <size key="GridCell.Tab.0.bottom.2880.0.1920.1080@144dpi" width="1856" height="527" />
+  </component>
+  <component name="WindowManager">
+    <frame x="-11" y="-11" width="1943" height="1043" extendedState="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="462" y="0" key="FileChooserDialogImpl" timestamp="1591525015434">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="462" y="0" key="FileChooserDialogImpl/0.0.1280.680" timestamp="1591525015434" />
+    <state x="552" y="586" width="400" height="116" key="ProcessPopupWindow" timestamp="1592649297584">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="740" y="494" width="400" height="116" key="ProcessPopupWindow/0.0.1280.680" timestamp="1586063085682" />
+    <state x="552" y="586" width="400" height="116" key="ProcessPopupWindow/0.0.1280.680/1920.0.1280.680" timestamp="1592649297584" />
+    <state x="641" y="309" key="WELCOME_SCREEN" timestamp="1591524955422">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="641" y="309" key="WELCOME_SCREEN/0.0.1280.680" timestamp="1591524955422" />
+    <state x="93" y="0" key="new project wizard" timestamp="1591506089366">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="0" key="new project wizard/0.0.1280.680" timestamp="1591506089366" />
+    <state x="93" y="0" key="new project wizard/0.0.1280.680/1920.0.1280.680" timestamp="1590856246691" />
+  </component>
+</application>

@@ -1,0 +1,25 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="regex" type="JAVA" />
+      <mapping pattern="haktamrin" type="JAVA" />
+      <mapping pattern="mahdi2" type="JAVA" />
+      <mapping pattern="mahdi" type="JAVA" />
+      <mapping pattern="main" type="JAVA" />
+      <mapping pattern="HELLOWORLD" type="JAVA" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping pattern="Abstraction" type="PLAIN_TEXT" />
+      <mapping pattern="InterFace" type="PLAIN_TEXT" />
+      <mapping pattern="Enum" type="PLAIN_TEXT" />
+      <mapping pattern="First" type="PLAIN_TEXT" />
+      <mapping pattern="enum" type="PLAIN_TEXT" />
+      <mapping pattern="super" type="PLAIN_TEXT" />
+      <mapping pattern="this" type="PLAIN_TEXT" />
+      <mapping pattern="Text" type="PLAIN_TEXT" />
+      <mapping pattern="OverRide" type="PLAIN_TEXT" />
+      <mapping pattern="OverLoad" type="PLAIN_TEXT" />
+      <mapping pattern="Overload" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
